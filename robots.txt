@@ -1,1 +1,1 @@
-Sitemap: https://MLpranav.github.io/mlpranav.github.io/sitemap.xml
+Sitemap: https://mlpranav.com/sitemap.xml
