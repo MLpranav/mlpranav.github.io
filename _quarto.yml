@@ -2,18 +2,24 @@ project:
   type: website
 
 website:
-  title: "blog"
+  title: "Pranav's Quant Blog"
   navbar:
     right:
       - about.qmd
+      - icon: linkedin
+        href: https://www.linkedin.com/in/pranavmittal611/
       - icon: github
-        href: https://github.com/
+        href: https://github.com/mlpranav
       - icon: twitter
-        href: https://twitter.com
+        href: https://twitter.com/pranavmittal611
+
 format:
   html:
-    theme: cosmo
+    theme: darkly
     css: styles.css
 
+resources:
+  - CNAME
 
-
+execute:
+  freeze: true
