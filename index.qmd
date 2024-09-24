@@ -1,5 +1,6 @@
 ---
-title: "Posts"
+title: "{{< fa newspaper >}} Posts"
+description: "Technical articles about quantitative finance, machine learning, and everything in between."
 listing:
   contents: posts
   sort: "date desc"

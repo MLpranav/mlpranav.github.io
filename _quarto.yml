@@ -12,10 +12,13 @@ website:
         href: https://github.com/mlpranav
       - icon: twitter
         href: https://twitter.com/pranavmittal611
+  page-footer: "{{< fa regular copyright >}} Copyright 2023-24, Pranav Mittal"
 
 format:
   html:
-    theme: darkly
+    theme:
+      light: litera
+      dark: cyborg
     css: styles.css
 
 resources:
